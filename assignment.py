@@ -74,3 +74,5 @@ print("- Setosa species has the smallest petal length and width on average.")
 print("- Virginica species has the largest petal length and width on average.")
 print("- Sepal width shows a normal-like distribution.")
 print("- There is a positive correlation between sepal length and petal length.")
+
+#completed assinment
